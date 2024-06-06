@@ -15,7 +15,7 @@ about: |
   played the chord. Internally it uses a neural network to classify the sound. 
   This tended to sometimes crash the app. 
   If you have any issues, please let me know.
-icon: https://raw.githubusercontent.com/RobinNaumann/guitarplay/assets/guitarplay.png
+icon: https://raw.githubusercontent.com/RobinNaumann/guitarplay/main/assets/guitarplay.png
 source: https://github.com/RobinNaumann/guitarplay
 donate: https://www.buymeacoffee.com/robinnaumann
 screenshots:
