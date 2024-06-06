@@ -45,6 +45,7 @@ class MyApp extends StatelessWidget {
     return BitBuildProvider(
       create: (_) => SettingsBit(),
       onData: (bit, Settings settings) => ElbeApp(
+          debugShowCheckedModeBanner: false,
           theme: ThemeData.preset(),
           mode: settings.darkMode ? ColorModes.dark : ColorModes.light,
           router: router),

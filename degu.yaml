@@ -7,9 +7,6 @@ authors:
   - ref: https://gist.githubusercontent.com/RobinNaumann/7d9d5b8902a697cda1f0ba2c5b7234c6/raw/46ebed8489de7e4458335ae434fee986d594504b/robin.degu.yaml
     role: developer
 platforms:
-  - macOS
-  - Windows
-  - Linux
   - Android
 tagline: simple app to teach chords
 about: |
@@ -18,16 +15,15 @@ about: |
   played the chord. Internally it uses a neural network to classify the sound. 
   This tended to sometimes crash the app. 
   If you have any issues, please let me know.
-icon: https://raw.githubusercontent.com/RobinNaumann/printikum/main/icon.png
-source: https://github.com/RobinNaumann/printikum
+icon: https://raw.githubusercontent.com/RobinNaumann/guitarplay/assets/guitarplay.png
+source: https://github.com/RobinNaumann/guitarplay
 donate: https://www.buymeacoffee.com/robinnaumann
 screenshots:
-  - https://raw.githubusercontent.com/RobinNaumann/printikum/main/screenshot/sc1.png
-  - https://raw.githubusercontent.com/RobinNaumann/printikum/main/screenshot/sc2.png
-  - https://raw.githubusercontent.com/RobinNaumann/printikum/main/screenshot/sc3.png
-  - https://raw.githubusercontent.com/RobinNaumann/printikum/main/screenshot/sc4.png
+  - https://raw.githubusercontent.com/RobinNaumann/guitarplay/main/assets/screenshot/sc1.png
+  - https://raw.githubusercontent.com/RobinNaumann/guitarplay/main/assets/screenshot/sc2.png
+  - https://raw.githubusercontent.com/RobinNaumann/guitarplay/main/assets/screenshot/sc3.png
 releases:
-  - version: 0.2.6
+  - version: 0.4.5
     downloads:
       - platform: Android
-        url: https://github.com/RobinNaumann/printikum/releases/download/v0.2.6/printikum-android.apk
+        url: https://github.com/RobinNaumann/guitarplay/releases/download/v0.4.5/guitarplay.apk
